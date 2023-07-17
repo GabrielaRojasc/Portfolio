@@ -1,0 +1,43 @@
+.head{
+    color: #FFFFFF;
+    
+    width: 100%;
+
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+
+    border-bottom: 1px solid #4F4C4C;
+    
+    position: absolute;
+
+
+}
+
+.head__logo{
+    margin-bottom: 1rem ;
+    width: 80px;
+
+}
+
+.head__navegacion{
+    text-align: center;
+    
+}
+
+.head__enlace{
+    color: var(--fuente-geis-oscuro);
+    font-size: 1.1rem;
+    font-style: var(--montserrat);
+    font-weight: 600;
+    
+    display: inline-block;
+    margin-top: .7rem;
+    margin-left: .7rem;
+    margin-bottom: .7rem;
+}

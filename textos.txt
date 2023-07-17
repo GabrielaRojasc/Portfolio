@@ -1,0 +1,123 @@
+﻿--- HEAD ---
+
+Texto alternativo del logo: Logo del portafolio
+
+Sobre Mi
+Skills
+Formación
+Proyectos
+Blog
+Contacto
+
+--- LLAMADA ---
+
+Mi trabajo se centra en tecnologías JavaScript
+
+Mi experiencia es una manera inovadora de comprar y crear aplicaciones móviles y web.
+
+Hablemos
+
+--- DESTACADOS BLOG---
+
+Destacados Blog
+
+alt: Panel de la publicación sobre la creación del portafolio
+Conozca las primeras etapas de la creación de un portafolio
+
+alt: Panel de la publicación sobre consejos de iniciar en  programación
+¿Quieres iniciar en la programación? Conozca esos consejos
+
+--- DIFERENCIALES ---
+
+Tiempo
+¡Tiempo es importante! Trabajamos en ritmo acelerado, para atender los plazos rigurosamente.
+
+Enfoque
+Enfocamos en el pequeño y médio empreendedor, ofrecemos servicios de calidad con precios accesibles.
+
+Especialistas
+Equipo especializada, con experiéncia de mercado. Testamos todos los productos antes del lanzamiento.
+
+--- SKILLS---
+
+Javascript
+React
+Tailwind CSS
+HTML
+Suit Adobe
+Canva
+CMS Wordpress
+CMR
+Tag
+Marketing - SEO/SEM
+MySQL
+MongoDB
+Oracle Cloud
+Postman
+Git
+UX
+SCRUM
+Jira
+--- OTROS INTERESES ---
+AI - Stable Difussion
+Salesforce
+VR / AR
+Diseño gráfico
+Comunidades Diversas
+
+
+--- SOBRE MI ---
+
+Sobre mi
+
+Desarrolladora que incorpora la mejora continua en su trabajo diario como elemento esencial para cumplir plenamente los objetivos definidos individualmente y en grupo. Proactiva y
+creativa.
+
+Me centro en aplicaciones web pero estoy dispuesta a aprender lo necesario para cumplir con mis funciones. Tengo experiencia con metodología SCRUM y técnicas orientadas a la óptima experiencia de usuario (UX).
+
+¡Tenemos un equipo especializado y exclusivo para proyectos increíbles!
+
+Desarrollamos aplicaciones para todas plataformas
+
+--- FORMACIÓN  ---
+
+>> Técnico Laboral en Programación, Universidad Autónoma
+de Bucaramanga | UNAB  May 2022 | Dic 2022
+Titulación: Énfasis en aplicaciones web
+
+>> Arquitecta, Universidad de San Buenaventura | USB
+Feb 2016 | May 2021 
+Titulación: Énfasis en la vivienda bioclimática y VR/AR
+
+
+
+--- PROYECTOS---
+
+>> Desarrollador Full Stack , Programa MisiónTic 2022
+May 2022 | Dic 2022
+Cali
+Desarrollo de aplicaciones web, APIS (REST APIS) utilizando principalmente Java. Base de datos (MySQL y MongoDB) y servidores Oracle Cloud para soluciones.
+Lideré dos proyectos de aplicaciones web, con tecnología back-end (VisualCode/SpringBoot) y
+front-end con JavaScript y CSS (React) aplicación que necesitaba funciones requeridas por un usuario para crear y gestionar datos (CRUD) y obtener informes, donde se incrementó en un gran porcentaje de efectividad trabajando como un gran equipo aplicando las mejores prácticas en desarrollo de software
+como Git y SCRUM.
+
+>> Diseñadora Arquitecta , Hábitat Vivo
+Ago 2021 | May 2022
+Bogotá
+Mi constante aprendizaje me llevó a liderar un equipo de diseñadores para realizar una mejora en el frontend de la página principal, donde utilizando Tailwind CSS ayudó en un porcentaje a la experiencia del usuario, (UX/UI) un diseño interactivo, útil, creíble, deseable y accesible, crecieron en un 30% las visitas a la página, logrando que los usuarios a través de llamadas a la acción (CTA) hicieran más fácil seguir los pasos y lograr una venta y pasar a tener el doble de visitas a la web en la semana
+
+--- CONTACTO ---
+
+Entre en contacto conmigo
+
++57 3207760678 o
+gabriela.rojas.chavaco@hotmail.com
+
+--- FOOTER ---
+
+Sobre Mi
+Skills & Hobbies
+Formación
+Proyectos
+Blog
+Contacto

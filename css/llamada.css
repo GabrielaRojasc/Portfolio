@@ -11,25 +11,28 @@
 }
 
 .llamada__titulo{
-    font-family: var(--montserrat);
-    font-size: 2rem;
+    
+    font-size: 1.2rem;
     font-weight: 700;
-    text-transform: uppercase;
-
+    text-align: center;
+    line-height: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
 .llamada__texto{
-    
-    font-size: 1.25rem;
+    text-align: justify;
     line-height: normal;
 
     margin: 0 auto 2.5rem;
 
 }
 
-.llamada__boton{
-    width: 60%;
-    color: var(--boton-azul-oscuro);
-    font-weight: 700;
+.llamada__aplicacion{
+   padding: .25rem;
+
+}
+
+.llamada__icono{
+    margin-left: 1.5rem;
+    font-size: 2.0rem;
 }

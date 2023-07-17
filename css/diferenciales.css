@@ -1,3 +1,48 @@
 .diferenciales{
+    background-color: var(--background-azul-claro);
+
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+
+}
+
+.diferenciales__lista{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.diferenciales__item{
+    max-width: 350px;
+    box-sizing: border-box;
+    padding: 2rem 0 2rem 5rem;
+    background-repeat: no-repeat;
+    background-position: top 1.25rem left 2.5rem;
+}
+
+.item__titulo{
+    color: var(--fuente-gris-oscuro);
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+}
+
+.item__texto{
+    line-height: normal;
     
 }
+
+.diferenciales__item-reloj{
+    background-image: url(../img/icono-reloj.png);
+}
+
+.diferenciales__item-creatividad{
+    background-image: url(../img/icono-creatividad.png);
+}
+
+.diferenciales__item-dinero{
+    background-image: url(../img/icono-dinero.png);
+}
+
+

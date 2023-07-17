@@ -17,8 +17,10 @@
     --open-sans: 'Open Sans', sans-serif;
  }
 
+html{
+    font-size: 16px;}
 
- body{
+body{
     font-family:var(--open-sans)
 }
 

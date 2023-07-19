@@ -1,15 +1,29 @@
 .sobre_mi{
-
+    background-color: var(--background-azul-claro);
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    
 }
 
 .sobre_mi__contenido{
-
+    color: var(--fuente-gris-oscuro);
+    text-align: justify;
 }
 
 .sobre_mi__titulo{
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
 
 }
 
 .sobre_mi__texto{
+    line-height: normal;
+    margin: 0 auto 1.5rem
+}
 
+.sobre_mi__texto--destacado {
+    color: var(--fuente-ceniza-oscuro);
+    font-weight: 700;
 }

@@ -1,16 +1,14 @@
 .head{
-    color: #FFFFFF;
-    
     width: 100%;
 
     box-sizing: border-box;
     
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
 
-    padding-top: .75rem;
-    padding-bottom: .75rem;
+    padding-top: .90rem;
+    padding-bottom: .90rem;
 
     border-bottom: 1px solid #4F4C4C;
     
@@ -18,8 +16,8 @@
 }
 
 .head__logo{
-    margin-bottom: .5rem ;
-    width: 80px;
+    margin:.5rem ;
+    width: 90px;
 
 }
 
@@ -34,7 +32,5 @@
     font-weight: 400;
     
     display: inline-block;
-    margin-top: .5rem;
-    margin-left: .5rem;
-    margin-bottom: .5rem;
+    margin:.5rem .5rem .5rem 0;
 }

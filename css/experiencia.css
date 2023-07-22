@@ -1,27 +1,54 @@
 .experiencia{
+    display: flex;
+    flex-direction: column;
 
 }
 
 .experiencia__titulo-principal{
-
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-align: center;
+    width: 100%;
+    padding: .5rem;
 }
 
 .experiencia__contenedor{
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .experiencia__contenido{
-
+    height: 20%;
+    background-color: #fdfdfd;
+    align-items: center;
+    margin:.5rem;
+    
+    
+    display: flex;
+    flex-direction: column;
 }
 
 .experiencia__imagen{
-
+    width: 20%;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 }
 
 .experiencia__titulo{
+    font-weight: 700;
+    font-size: 1rem;
+    text-align: center;
+   
+    line-height: 1.5rem;
 }
 
 .experiencia__texto{
+    font-weight: 700;
+    font-size: 1rem;
+    text-align: justify;
+   
+    line-height: 1.5rem;
 
 }
 

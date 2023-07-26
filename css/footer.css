@@ -1,0 +1,32 @@
+.footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+
+    background: var(--background-gris-clarito);
+    color: var( --fuente-gris-oscuro);
+}
+
+.footer__aplicacion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.desarrollado{
+    align-items: center;
+}
+
+@media screen and (min-width: 1024px) {
+    .footer {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .footer__aplicacion {
+        text-align: left;
+        min-width: 600px;
+    }
+}

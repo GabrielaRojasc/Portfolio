@@ -55,14 +55,15 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-
     margin: .5rem;
+    
 }
 .experiencia__repositorio-boton{
     color:#2A7AE4;
     text-align: center;
     background: #fdfdfd;
     
+    transition: all .1s ease-in-out;
  
 }
 
@@ -71,5 +72,17 @@
     background: #2A7AE4;
     text-align: center;
 
-    
+    transition: all .1s ease-in-out;
+}
+
+.experiencia__link-boton:hover{
+    cursor: pointer;
+    background: #1362ca;
+    font-weight: 700;
+}
+
+.experiencia__repositorio-boton:hover{
+    cursor: pointer;
+    background: #f0f6f7ee;
+    font-weight: 700;
 }

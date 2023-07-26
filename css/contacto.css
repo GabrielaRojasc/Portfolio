@@ -31,3 +31,34 @@
     margin-bottom: 1.25rem;
 
 }
+
+.contacto__email{
+    font-size: 1rem;
+}
+
+.contacto__telefono{
+    font-size: 1rem;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .contacto__titulo {
+        font-size: 1.5rem;
+    }
+
+    .contacto__texto{
+        font-size: 1.2rem;
+    }
+    .contacto__email{
+        font-size: 1.2rem;
+    }
+    
+    .contacto__telefono{
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .contacto__titulo {
+        font-size: 1.7rem;
+    }
+}

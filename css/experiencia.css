@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     padding-bottom: 1.3rem;
-
+    color: var(--fuente-gris-oscuro);
 }
 
 .experiencia__titulo-principal{
@@ -56,13 +56,14 @@
     flex-direction: row;
     justify-content: space-evenly;
     margin: .5rem;
+
     
 }
 .experiencia__repositorio-boton{
     color:#2A7AE4;
     text-align: center;
     background: #fdfdfd;
-    
+    width: 150px;
     transition: all .1s ease-in-out;
  
 }
@@ -71,7 +72,7 @@
     color: #fdfdfd;
     background: #2A7AE4;
     text-align: center;
-
+    width: 150px;
     transition: all .1s ease-in-out;
 }
 
@@ -85,4 +86,36 @@
     cursor: pointer;
     background: #f0f6f7ee;
     font-weight: 700;
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .experiencia__titulo-principal  {
+        font-size: 1.5rem;
+    }
+    .experiencia__titulo{
+        font-size: 1.2rem;
+    }
+    .experiencia__texto{
+        font-size: 1.2rem;
+    }
+
+}
+
+@media screen and (min-width: 1024px) {
+
+    .experiencia__titulo-principal  {
+        font-size: 1.7rem;
+    }
+    .experiencia__titulo{
+        font-size: 1.4rem;
+    }
+    .experiencia__repositorio-boton{
+        font-size: 1rem;
+    }
+
+    .experiencia__link-boton{
+        font-size: 1rem;
+    }
+
 }

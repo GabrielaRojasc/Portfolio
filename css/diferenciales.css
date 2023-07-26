@@ -50,3 +50,14 @@
 }
 
 
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .item__titulo  {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .item__titulo  {
+        font-size: 1.7rem;
+    }
+}

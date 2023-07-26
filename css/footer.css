@@ -17,16 +17,5 @@
 
 .desarrollado{
     align-items: center;
-}
-
-@media screen and (min-width: 1024px) {
-    .footer {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
-    .footer__aplicacion {
-        text-align: left;
-        min-width: 600px;
-    }
+    font-size: 1rem;
 }

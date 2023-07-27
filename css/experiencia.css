@@ -1,8 +1,10 @@
 .experiencia{
     display: flex;
     flex-direction: column;
-    padding-bottom: 1.3rem;
+    padding-top: 4rem;
+    padding-bottom: 1.5rem;
     color: var(--fuente-gris-oscuro);
+    background-color: var(--background-gris-clarito);
 }
 
 .experiencia__titulo-principal{
@@ -10,7 +12,8 @@
     font-size: 1.2rem;
     text-align: center;
     width: 100%;
-    padding: .5rem;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
 }
 
 .experiencia__contenedor{
@@ -22,7 +25,7 @@
 
 .experiencia__contenido{
     height: 20%;
-    background-color: #fdfdfd;
+    background-color: var(--background-gris-clarito);
     display: flex;
     flex-direction: column;
 }
@@ -109,6 +112,9 @@
     }
     .experiencia__titulo{
         font-size: 1.4rem;
+    }
+    .experiencia__texto{
+        font-size: 1.3rem;
     }
     .experiencia__repositorio-boton{
         font-size: 1rem;

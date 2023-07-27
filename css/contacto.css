@@ -5,8 +5,8 @@
     align-items: center;
     text-align: center;
 
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 5rem;
 
     background: var(--background-azul-claro);
     color: var( --fuente-gris-oscuro);
@@ -61,4 +61,15 @@
     .contacto__titulo {
         font-size: 1.7rem;
     }
+    .contacto__texto{
+        font-size: 1.3rem;
+    }
+    .contacto__email{
+        font-size: 1.3rem;
+    }
+    
+    .contacto__telefono{
+        font-size: 1.3rem;
+    }
+
 }

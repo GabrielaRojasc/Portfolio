@@ -1,5 +1,5 @@
 .formacion {
-    padding-top: 1.5rem;
+    padding-top: 4rem;
     padding-bottom: 1.5rem;
     background: var(--background-azul-claro);
     color: var(--fuente-gris-oscuro);
@@ -10,7 +10,8 @@
     text-align: center;
     font-size: 1.2rem;
     font-weight: 700;
-    padding: .5rem;
+    padding-top:  4rem;
+    padding-bottom: 3rem;
 }
 
 .formacion__contenedor {
@@ -89,7 +90,8 @@
 
 @media screen and (min-width: 1024px) {
     .formacion{
-        padding: 1rem;
+        padding-top: 5rem;
+        padding-bottom: 3rem;
         display: flex;
         flex-direction: column;
     
@@ -97,6 +99,7 @@
     .formacion__titulo-principal {
         width: 100%;
         font-size: 1.7rem;
+        
     }
 
     .formacion__contenedor {
@@ -136,7 +139,7 @@
     }
     .formacion__titulo {
         width: 100%;
-        padding: .5rem;
+        padding-top: 2rem;
         margin: 0;
 
     }

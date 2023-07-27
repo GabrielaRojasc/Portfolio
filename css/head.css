@@ -7,15 +7,17 @@
     flex-direction: row;
     align-items: center;
 
-    padding-top: .90rem;
-    padding-bottom: .90rem;
+    padding:.5rem;
 
     border-bottom: 1px solid #4F4C4C;
     
-    position: absolute;
+    position: fixed;
+    background-color: #ffffff;
+    z-index:1000;
 }
 
 .head__logo{
+    
     margin:.5rem ;
     width: 90px;
 
